@@ -5,8 +5,7 @@
 * Project Euler 
 * Techgig Problems
 
-## Interview Footsteps to crack your Dream Company
-
+## Interview Footsteps 
 This repository contains examples of various algorithms written on different programming languages...
 
 # Interview resources 
