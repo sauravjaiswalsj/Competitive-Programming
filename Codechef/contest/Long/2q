@@ -1,0 +1,39 @@
+/*@author Sauravjaiswalsj
+ */
+
+import java.util.*;
+class DistributeApples{
+	public static void main(String[] args){
+		Scanner cin=new Scanner(System.in);
+		int test_case=cin.nextInt();
+		while(test_case!=0){
+			long  n=cin.nextInt();// Apples
+			long k=cin.nextInt();// Boxes
+			System.out.println(distribute(n,k));
+			test_case--;
+		}
+	}
+	public static String distribute(long apple, long  boxes){
+		long box=0;
+		long rem=apple/boxes;
+		if(rem==boxes || rem == 1){
+			
+			while(apple>0){
+				box=0;
+				long val=apple-boxes;
+				System.out.print("val is "+val+" ");
+				apple=val;
+				box=Math.min(apple,box);
+				System.out.print("Box at" + apple +" is "+ box+ " ");
+			}
+		}else{
+			box=-1;
+		}
+		if(box<0){
+			return "NO";
+		}else{
+			return "YES";
+		}
+	}
+}
+
