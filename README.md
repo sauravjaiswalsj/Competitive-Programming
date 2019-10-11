@@ -1,33 +1,159 @@
-# Competitive-Programming
+![cp](https://user-images.githubusercontent.com/25124428/66685841-3680af80-ec9b-11e9-8c86-7044f30854b4.png)
 
-* hackerrank
-* leetcode
-* Project Euler 
-* Techgig Problems
 
-## Interview Footsteps 
+# Competitive-Programming Preparation 
+_Ongoing Project_
+
+This program developed to learn Algorithms for using in Competitive Prorgamming, **but can be used for:**
+  - Competitive Programming
+  - Practicing for Interviews
+  - Improving Algorithmic Thinking
+  - Practicing for College Class
+  - FUN
+
+**The course requires:** 
+  - To know at least one programming language well. (_You have to be able to use the language efficiently._)
+  - You have to be familiarize with some of the basic Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know some of them, you may learn it when you come accross._)
+  
+###### _PS: I am saying "Any programming language" but in this course mostly we used Java and C++ some C. But still you can follow the curriculum without any knowledge of these languages_
+ 
+## Resources
+
+In this course we will use some tools for the questions. As I mentioned above all of these questions already exists, we just highlight them so that you can reach better. Here are the websites/tools that we use through this course:
+
+  - [Leetcode](https://leetcode.com)
+  - [Spoj](http://www.spoj.com)
+  - [Hackerrank](https://www.hackerrank.com/domains)
+  - [Topcoder](https://www.topcoder.com)
+  - [Codeforces](http://codeforces.com)
+  - [Lightoj](http://www.lightoj.com)
+  - [ACM-Timus](http://acm.timus.ru)
+
+I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
+
+## Topics
+
+Here are the topics we included in this curriculum.
+
+### DS
+ 
+  - Stacks
+  - Queues
+  - Priority queue
+  - Hashmap
+  - Linked List
+  - Trees
+  - Heaps
+  - Advanced Trees 
+    - Tries
+    - Segment trees
+    - Fenwick tree or Binary indexed trees
+    - RMQ
+  - SQRT Decomposition
+  - Disjoint Data Structure
+  - C++ STL (optional)
+
+### Algo
+  
+  - Number Theory 
+    - Prime Numbers (Sieve of Eratosthenes)
+    - GCD and LCM Euclid’s Algorithm
+    - Modular Exponentiation
+    - Long arithmetic (Multi, Add)
+    - Efficient Prime Factorization
+
+  - Combinatorics(Probability-Combinations-Permutations-Matrix..)
+
+  - Computational geometry
+    - Primitive Operations
+      - Intuition
+      - Polygon Inside, Outside
+      - Implementing CCW
+      - Immutable Point ADT
+    - Convex Hull
+    - Closest pair problem
+    - Line intersection
+
+  - Sorting
+    - QuickSort
+    - Counting Sort
+    - Merge Sort
+
+  - Searching
+    - Binary Search
+    - Ternary Search
+
+  - Graph Theory
+    - Depth First Search (DFS)
+    - Breadth First Search (BFS)
+    - Dijkstra’s Shortest Path
+    - Minimum Spanning Tree 
+    - Ford Bellman
+    - Floyd Warshall
+    - LCA (Lowest Common Ancestor)
+    - Max Flow / Min Cut
+
+  - Dynamic programming
+    - Knapsack
+    - Matrix chain multiplication
+    - Coin Change
+    - Kadane
+    - Longest increasing Subsequence (with RMQ)
+
+  - Strings
+    - Z algorithm
+    - Suffix Trees/Arrays
+    - Knuth-Morris-Pratt Algorithm (KMP)
+    - Rabin-Karp Algorithm
+    - Hash
+
+  - Bit Manipulation
+
+  - Game theory
+    - Nim game
+    - Grundy numbers
+    - Sprague-Grundy theorem
+
+  - **Optional Advanced Algorithms**
+    - AVL Trees
+    - Graph Coloring
+    - Mo's Algorithm
+    - Palindromic Tree
+    - Heavy Light Decomposition
+    - Dynamic Programming by Profile
+    - Rod Cutting
+    - Topological Sorting
+    - DP with Bitmask - Dynamic Programming
+    - Diobhantine Equation - Math
+    - Flood Fill - Graph
+
+
+## Here is our Curriculum
+|Week|Topics|Optional Topics|
+| --- | --- | --- |
+|[**1.Week**](#)|<ul><li>Prime Numbers (Sieve of Eratosthenes)</li><li>Efficient Prime Factorization</li><li>Modular Exponentiation</li></ul><ul></ul>|
+|[**2.Week**](#)|<ul><li>GCD and LCM Euclid’s Algorithm</li><li>Long arithmetic (Multi, Sum, Div, Sub)</li></ul>|<ul><li>C++ STL:Vector</li><li>C++ STL:Pairs</li><li>C++ STL:Iterators</li></ul>|
+|[**3.Week**](#)|<ul><li>QuickSort</li><li>Counting Sort</li></ul>|<ul><li>C++ STL:String</li><li>C++ STL:Set</li><li>C++ STL:Map</li></ul>|
+|[**4.Week**](#)|<ul><li>Merge Sort</li><li>Binary Search</li></ul>|<ul><li>Ternary Search</li></ul>|
+|[**5.Week**](#)|<ul><li>Queue (DS)</li><li>Stack (DS)</li><li>Breadth First Search</li><li>Depth First Search</li></ul>|<ul><li>C++ STL: Queue</li><li>C++ STL: Stack</li></ul>|
+|[**6.Week**](#)|<ul><li>Linked List (DS)</li><li>Dijkstra’s Shortest Path</li><li>Minimum Spanning Tree (MST)</li><li>Floyd Warshall</li></ul><ul></ul>|
+|[**7.Week**](#)|<ul><li>Knapsack</li><li>Coin Change</li><li>Kadane</li></ul>|
+|[**8.Week**](#)|**Questions from previous topics**|
+|[**9.Week**](#)|<ul><li>Trees (DS)</li><li>Segment Trees (DS)</li><li>Range Minimum Query (RMQ)</li><li>Lowest Common Ancestor (LCA)</li></ul>|<ul><li>Topological Sorting</li></ul>|
+|[**10.Week**](#)|<ul><li>Ford Bellman</li><li>Max Flow / Min Cut</li><li>Longest increasing Subsequence (with RMQ)</li></ul>|<ul><li>Heavy Light Decomposition</li></ul>|
+|[**11.Week**](#)|<ul><li>Primitive Operations<ul><li>Intuition</li><li>Polygon Inside, Outside</li><li>Implementing CCW</li><li>Immutable Point ADT</li></ul></li><li>Convex Hull</li><li>Closest pair problem</li><li>Line intersection</li></ul>|
+|[**12.Week**](#)|<ul><li>Tries (DS)</li><li>Suffix Trees/Arrays (DS)</li><li>Knuth-Morris-Pratt Algorithm (KMP)</li><li>Rabin-Karp Algorithm</li></ul>|
+|[**13.Week**](#)|<ul><li>Heaps (DS)</li><li>Priority queue (DS)</li><li>Combinatorics</li></ul>|
+|[**14.Week**](#)|<ul><li>Z algorithm</li><li>Hash</li><li>Disjoint Data Structure (DS)</li></ul>|
+|[**15.Week**](#)|<ul><li>Matrix chain multiplication</li><li>SQRT Decomposition (DS)</li></ul>|<ul><li>Mo's Algorithm</li><li>Rod Cutting</li></ul>|
+|[**16.Week**](#)|**Questions from previous topics**|
+|[**17.Week**](#)|<ul><li>Nim game</li><li>Grundy numbers</li></ul>|
+|[**18.Week**](#)|<ul><li>Sprague-Grundy theorem</li><li>Fenwick tree or Binary indexed trees (DS)</li></ul>|
+|[**19.Week**](#)|<ul><li>Bit Manipulation</li></ul>|<ul><li>Palindromic Tree</li><li>AVL Trees</li></ul>|
+|[**20.Week**](#)|<ul><li>Heavy Light Decomposition</li><li>Dynamic Programming by Profile</li></ul>|<ul><li>Graph Coloring</li></ul>|
+
+## Footsteps 
 This repository contains examples of various algorithms written on different programming languages...
-
-# Interview resources 
-Various algorithms written on different programming languages...
-
-
-## Important Data Structures
-
-| Data Structure                                                                                  | C                                     | CPP                                   | Java                                  | Python                                |
-|:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| [Dynamic array](https://en.wikipedia.org/wiki/Dynamic_array)                                          |                                       |                                       |               |              |
-| [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))                               |                                       |                                       |               |              |
-| [Singly Linked List](https://en.wikipedia.org/wiki/Linked_list)                               |                                       |                                       |               |              |
-| [Double Linked List](https://en.wikipedia.org/wiki/Doubly_linked_list)                               |                                       |                                       |               |              |
-| [Circular Linked List](https://en.wikipedia.org/wiki/Linked_list)                               |                                       |                                       |               |              |
-| [Hash Tables](https://en.wikipedia.org/wiki/Hash_table)                               |                                       |                                       |               |              |
-| [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))                               |                                       |                                       |               |              |
-| [Fibonacci Heaps](https://en.wikipedia.org/wiki/Fibonacci_heap)                               |                                       |                                       |               |              |
-| [Disjoints Sets](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))                               |                                       |                                       |               |              |
-| [Adjacency matrix](https://en.wikipedia.org/wiki/List_of_data_structures#Hash-based_structures)                               |                                       |                                       |               |              |
-| [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))                               |                                       |                 |                                       |                                       |
-| [Priority Queue](https://en.wikipedia.org/wiki/Priority_queue)                               |                                       |                 |                                       |                                       |
 
 ## Important Algorithms
 
