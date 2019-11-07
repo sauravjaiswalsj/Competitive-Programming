@@ -1,0 +1,35 @@
+*{
+    color:black;
+}
+body{
+    background-color: antiquewhite;
+    background-image: url(images/googl.png)
+}
+h1{
+    background-color:aqua;
+    font-family: fantasy;
+}
+h2{
+    background-color: cornflowerblue;
+    font-family: monospace;
+}
+.content{
+    background-color: deepskyblue;
+    font-family: cursive;
+}
+#menu{
+    background-color: darkviolet;
+}
+/* mouse over link */
+#button{
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: black;
+    border-width: 1mm;
+    font-size: 1.5em;
+    width:6%;
+    
+}
+#button a:hover{
+    color: blueviolet;
+}

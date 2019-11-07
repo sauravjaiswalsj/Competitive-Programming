@@ -1,0 +1,29 @@
+to compile a file in c
+gcc filename.c -o filename.out
+to run it - ./filename.out
+*************************
+to compile using make => make filename
+to run =>./filename
+*************************
+To compile a file in c++
+g++ filename.cpp -o filename.out
+To run it -./filename.out
+
+**************************
+make filename
+./filename
+**************************
+To compile a file in java 
+javac filename.java
+(however it is necessary to give file name and java main class name same other wise it show error)
+
+To run a file in java-- java file
+here file is class name
+**********************************
+
+TO compile a file in python 
+python filename.py
+
+This will run the file as well compile
+
+************************************

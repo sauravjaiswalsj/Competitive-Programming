@@ -9,7 +9,12 @@ public class AnyBase{
 		int sb=cin.nextInt();
 		System.out.println("Enter the Destination Base: ");
 		int db=cin.nextInt();
-		System.out.println(ToAnyBase(n,sb,db));
+		if(sb==16){
+			String g=cin.nextLine();
+			int t=Integer.parseInt(g,16);
+			System.out.println(t);
+		}else
+			System.out.println(ToAnyBase(n,sb,db));
 	}
 	public static int ToAnyBase(int n,int sb,int db){
 		int sum=0,i=0;

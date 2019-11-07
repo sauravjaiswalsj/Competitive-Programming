@@ -1,0 +1,42 @@
+Tags
+<meta> -- to give the description of the pages
+<div> -- to divide the page into different half
+<acronym> - to give full form of a World
+<abbr>--to give full form of a World
+<pre> it is a white space tags
+&nbsp is non breaking space tags
+<cite> tag is used for indicating a citation.
+blockquote> represents a block quotation,
+<hr /> horizontal line
+
+<dl> Defination Lists
+<dt>Defination title
+<dd>defination data
+
+<table border="2" summary="This is the summary of table">
+<caption><b> Tables Lists</b></caption>
+<thead>
+  <tr>
+  <th>List item</th>
+  <th>Tags</th>
+  <th> Uses</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+  <th colspan="3">Total</th>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+  <td>Unordered List</td>
+  <td>&lt;ul&gt; , &lt;li&gt;</td>
+  <td rowspan="2"> Displaying simple lists of items</td>
+</tr>
+<tr>
+  <td> Ordered Lists</td>
+  <td>&lt;ol&gt; , &lt;li&gt;</td>
+</tr>
+</tbody>
+</table>
+<em> tags - to emphasise on the HyperText
