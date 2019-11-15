@@ -10,6 +10,7 @@ public class RightArrayRotation{
 			list.add(cin.nextInt());
 		}
 		int d=cin.nextInt();
+		d%=list.size();
 		RightRotation(list,0,list.size()-1);
 		RightRotation(list,0,d-1);
 		RightRotation(list,d,list.size()-1);
