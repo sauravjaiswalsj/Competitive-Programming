@@ -8,17 +8,17 @@ int main(void){
 	while(row<nr){
 		int cst=1;
 		while(cst<=nst){
-			std::cout<<"* ";
+			std::cout<<"*\t";
 			cst++;
 		}
 		int csp=1;
 		while(csp<=nsp){
-			std::cout<<"  ";
+			std::cout<<"\t";
 			csp++;
 		}
 		int csd=1;
 		while(csd<=nst){
-			std::cout<<"* ";
+			std::cout<<"*\t";
 			csd++;
 		}
 		//prep
