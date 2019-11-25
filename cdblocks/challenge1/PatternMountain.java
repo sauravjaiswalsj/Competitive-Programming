@@ -25,8 +25,11 @@ public class PatternMountain{
 				System.out.print("\t");
 				++csp;
 			}
-			if(nrow==n){--val;}
 			int csd=1;
+			if(nrow==n){
+				csd=2;
+				--val;
+			}
 			while(csd<=nst){
 				System.out.print(val+"\t");
 				++csd;
