@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Collections;
 import java.util.Iterator;
-import java.util.ArrayList;
+Import java.util.ArrayList;
 public class ArrayRotationBrute{
 	public static void main(String[] args){
 		Scanner cin=new Scanner(System.in);
