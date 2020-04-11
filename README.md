@@ -293,41 +293,35 @@ This repository contains examples of various algorithms written on different pro
 * [Hacker News](https://news.ycombinator.com/)
 * [Lobsters](https://lobste.rs/)
 
-New to programming; follow these resources:
-Codecademy 
-Freecodecamp
-Progate
-Cs50 (recommended) by Harvard university  - Audit the course if you dont  wanna pay for the certificate
-Few learning websites:
-udacity
-Coursera - recommended courses -  Algorithmic toolbox, java programming
-Edx - CS50 , Mit introduction to programming with python
-Nptel
-Data Science - Datacamp
+### New to programming; follow these resources:
+	* Codecademy 
+	* Freecodecamp
+	* Progate
+	* Cs50 by Harvard university 
+### Few learning websites:
+	* udacity
+	* Coursera - recommended courses -  Algorithmic toolbox, java programming
+	* Edx - CS50 , Mit introduction to programming with python
+	* Datacamp
 
-Things to learn before you wanna grab a good companies:
-Git -  https://githowto.com/  this is one of the best website to learn git
-Github 
-Postman
-Learn an Object oriented programming language - Java, c++, python etc
-Learn DS, Algo - Books recommended : CLRS
-Learn Database and dbms concepts
-Networking  - udacity free course recommended
-Operating systems - udacity free course recommended
-Web Programming - CS50 web programming course by Harvard university
-Learn basics of unix -> will be useful in future
-Github, projects and few use full links:
-Recommended Link - https://github.com/ForrestKnight/open-source-cs
-	https://github.com/dipakkr/A-to-Z-Resources-for-Students 
-Do check other link you can either star it or fork it as per your comfort
-https://github.com/rby90/project-based-tutorials-in-c
-https://github.com/fnplus/community-project-ideas
-https://github.com/danistefanovic/build-your-own-x
-https://github.com/tuvtran/project-based-learning
-https://github.com/MunGell/awesome-for-beginners
-https://github.com/vicky002/1000_Projects
-	
-
+### Things to learn before you wanna grab a good companies:
+ * [Git](https://githowto.com/)   
+ * Postman
+ * Learn an Object oriented programming language - Java, c++, python etc
+ * Learn DS, Algo 
+ * Learn Database and dbms concepts
+ * Networking  
+ * Operating systems 
+ * Web Programming - CS50 web programming course by Harvard university
+ * Learn basics of unix 
+### Github, projects and few use full links:
+ * [Open Source CS](https://github.com/ForrestKnight/open-source-cs)
+ * [A-Z Student Resouce ](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+ * [Project based in C](https://github.com/rby9/project-based-tutorials-in-c)
+ * [Fnplus](https://github.com/fnplus/community-project-ideas)
+ * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+ * [Project based Learning](https://github.com/tuvtran/project-based-learning)
+ *[Awesome Beginners](https://github.com/MunGell/awesome-for-beginners)
 
 ## Contributing
 
