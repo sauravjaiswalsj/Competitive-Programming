@@ -293,6 +293,41 @@ This repository contains examples of various algorithms written on different pro
 * [Hacker News](https://news.ycombinator.com/)
 * [Lobsters](https://lobste.rs/)
 
+New to programming; follow these resources:
+Codecademy 
+Freecodecamp
+Progate
+Cs50 (recommended) by Harvard university  - Audit the course if you dont  wanna pay for the certificate
+Few learning websites:
+udacity
+Coursera - recommended courses -  Algorithmic toolbox, java programming
+Edx - CS50 , Mit introduction to programming with python
+Nptel
+Data Science - Datacamp
+
+Things to learn before you wanna grab a good companies:
+Git -  https://githowto.com/  this is one of the best website to learn git
+Github 
+Postman
+Learn an Object oriented programming language - Java, c++, python etc
+Learn DS, Algo - Books recommended : CLRS
+Learn Database and dbms concepts
+Networking  - udacity free course recommended
+Operating systems - udacity free course recommended
+Web Programming - CS50 web programming course by Harvard university
+Learn basics of unix -> will be useful in future
+Github, projects and few use full links:
+Recommended Link - https://github.com/ForrestKnight/open-source-cs
+	https://github.com/dipakkr/A-to-Z-Resources-for-Students 
+Do check other link you can either star it or fork it as per your comfort
+https://github.com/rby90/project-based-tutorials-in-c
+https://github.com/fnplus/community-project-ideas
+https://github.com/danistefanovic/build-your-own-x
+https://github.com/tuvtran/project-based-learning
+https://github.com/MunGell/awesome-for-beginners
+https://github.com/vicky002/1000_Projects
+	
+
 
 ## Contributing
 
