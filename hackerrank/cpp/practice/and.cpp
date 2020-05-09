@@ -38,19 +38,13 @@ typedef unsigned long long int  uint64;
 int main(void){
 	
 	//Type your code here
-	string arr[]={"zero","one","two","three","four","five","six","seven","eight","nine"};
-	int n,m;
-	cin>>n>>m;
-	for(int i=n;i<=m;i++){
-		if(i>9 && !(i & 1)){//return zero
-			cout<<"even\n";
-		}else if(i>9 && (i&1)){// return non zero
-			cout<<"odd\n";
-		}
-		else{
-			cout<<arr[i]<<"\n";	
-		}
-	}	
+	int n;
+	cin>>n;
+	if(n&1){ // if true returns a non zero integer
+		cout<<"odd"<<endl;
+	}else{ //if false return zero
+		cout<<"even"<<endl;
+	}
 	return 0;
 }
 
