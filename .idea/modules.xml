@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Codechef/contest/2020/2020.iml" filepath="$PROJECT_DIR$/Codechef/contest/2020/2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/java/practice/BigInteger/BigInteger.iml" filepath="$PROJECT_DIR$/codes/java/practice/BigInteger/BigInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codechef/Codechef.iml" filepath="$PROJECT_DIR$/Codechef/Codechef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Competitive-Programming.iml" filepath="$PROJECT_DIR$/Competitive-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdblocks/cdblocks.iml" filepath="$PROJECT_DIR$/cdblocks/cdblocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeforces/codeforces.iml" filepath="$PROJECT_DIR$/codeforces/codeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/java/codes.iml" filepath="$PROJECT_DIR$/codes/java/codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank/compete/compete.iml" filepath="$PROJECT_DIR$/hackerrank/compete/compete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codechef/contest/contest.iml" filepath="$PROJECT_DIR$/Codechef/contest/contest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/cpp/cpp.iml" filepath="$PROJECT_DIR$/codes/cpp/cpp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank/hackerrank.iml" filepath="$PROJECT_DIR$/hackerrank/hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/java/jetbrains-Acad/jetbrains-Acad.iml" filepath="$PROJECT_DIR$/codes/java/jetbrains-Acad/jetbrains-Acad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/java/practice/practice1.iml" filepath="$PROJECT_DIR$/codes/java/practice/practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectEuler/projectEuler.iml" filepath="$PROJECT_DIR$/projectEuler/projectEuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topcoder/topcoder.iml" filepath="$PROJECT_DIR$/topcoder/topcoder.iml" />
+    </modules>
+  </component>
+</project>
